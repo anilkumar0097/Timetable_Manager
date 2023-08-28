@@ -45,7 +45,7 @@ The Timetable Manager is a versatile tool developed to streamline the process of
 Follow these steps to get the Timetable Manager up and running:
 
 1. Clone the repository and navigate to the project directory.
-$ git clone [https://github.com/kplgarg/Timetable_Manager]
+$ git clone [https://github.com/anilkumar0097/Timetable_Manager]
 $ cd timetable-manager
 
 2. Install the required dependencies for the frontend.
